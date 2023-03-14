@@ -34,7 +34,7 @@ hide_streamlit_style = """
 
             footer:after {
 
-            content:'Created by Salim Al_Rawas';
+            content:'Created by samar';
 
             visibility: visible;
 
