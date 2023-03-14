@@ -1,5 +1,5 @@
 import streamlit as st
-from plotly import graph_object as go
+from plotly import graph_objects as go
 import numpy as np
 
 st.set_page_config(
